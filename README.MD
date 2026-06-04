@@ -13,7 +13,7 @@
 ---
 **구성원**
 
->[prcitrate](https://github.com/pr-citrate) - 팀장, 개발 총괄
+>[oceanraven](https://github.com/oceanraven) - 팀장, 개발 총괄
 
 >[khw](https://github.com/khw-dev) - 개발
 
